@@ -391,3 +391,9 @@ spec:
 <br>
 
 # 4.Change some code in my MLFlask App
+<i><b>If i changes something in my Mlflask app (in my cases i chages some UI part of my app) and push that changes into github,Github Action automatically trigger and create new image with different tag.In values.yaml we update only image tag,kubernetes automatically Launch new pods and terminating old pods without any downtime.</i> <b>
+<br><br><img src="https://github.com/Shivansh5/my-image/blob/main/ezgif.com-gif-maker.gif?raw=true" />
+<br><br>
+
+# Tech Stack 
+<img src="https://github.com/Shivansh5/my-image/blob/main/Untitled%20design%20(1).gif?raw=true" height="350" weight="400"/>
