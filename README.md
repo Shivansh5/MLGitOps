@@ -397,3 +397,11 @@ spec:
 
 # Tech Stack 
 <img src="https://github.com/Shivansh5/my-image/blob/main/Untitled%20design%20(1).gif?raw=true" height="350" weight="400"/>
+<br>
+
+
+## 🔗 Social Link
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/shivansh5)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh5/)
+# Team 🫂
+<img src="https://github.com/Shivansh5/my-image/blob/main/IMG_20211024_192509_1.jpg?raw=true" height=100 weight=100 /><br>[@Shivansh](https://www.linkedin.com/in/shivansh5/)
